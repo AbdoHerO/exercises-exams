@@ -4,10 +4,7 @@ package main;
  * Created by yassine on 2/22/17.
  */
 
-import main.exceptions.NoDayException;
-import main.exceptions.NoMonthException;
-import main.exceptions.NoYearException;
-
+import main.exceptions.*;
 import javax.swing.*;
 import java.awt.event.*;
 
