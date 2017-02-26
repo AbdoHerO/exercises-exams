@@ -13,7 +13,7 @@ import java.awt.event.*;
 
 public class WindowFrame extends JFrame{
     private static final long serialVersionUID = 1L;
-	private JPanel panel = new JPanel();
+    private JPanel panel = new JPanel();
     private JLabel label = new JLabel("Entrer la date: ");
     private JTextField day = new JTextField("", 2);
     private JTextField month = new JTextField("",2);
