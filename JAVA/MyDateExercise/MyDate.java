@@ -25,40 +25,40 @@ public class MyDate {
     public void setMonthName(int month){
         switch (month){
             case 1:
-                this.monthName = months[0];
+                monthName = months[0];
                 break;
             case 2:
-                this.monthName = months[1];
+                monthName = months[1];
                 break;
             case 3:
-                this.monthName = months[2];
+                monthName = months[2];
                 break;
             case 4:
-                this.monthName = months[3];
+                monthName = months[3];
                 break;
             case 5:
-                this.monthName = months[4];
+                monthName = months[4];
                 break;
             case 6:
-                this.monthName = months[5];
+                monthName = months[5];
                 break;
             case 7:
-                this.monthName = months[6];
+                monthName = months[6];
                 break;
             case 8:
-                this.monthName = months[7];
+                monthName = months[7];
                 break;
             case 9:
-                this.monthName = months[8];
+                monthName = months[8];
                 break;
             case 10:
-                this.monthName = months[9];
+                monthName = months[9];
                 break;
             case 11:
-                this.monthName = months[10];
+                monthName = months[10];
                 break;
             case 12:
-                this.monthName = months[11];
+                monthName = months[11];
                 break;
         }
 
